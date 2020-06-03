@@ -1,0 +1,7 @@
+Accounting equation
+assets
+liabilities "payable"
+ -> liabilities can be thought of as a source of the company's assets
+capital money
+
+Liabilities are obligations of the company; they are amounts owed to creditors for a past transaction and they usually have the word "payable" in their account title. Along with the owner's equity, liabilities can be thought of as a source of the company's assets. They can also be thought of as a claim against a company's assets. For example, a company's balance sheet reports assets of $100,000 and Accounts Payable of $40,000 and owner's equity of $60,000. The source of the company's assets are creditors/suppliers for $40,000 and the owners for $60,000. The creditors/suppliers have a claim against the company's assets and the owner can claim what remains after the Accounts Payable has been paid.
